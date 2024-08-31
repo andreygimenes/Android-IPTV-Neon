@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Abrir menu de navegação</string>
+    <string name="navigation_drawer_close">Fechar menu de navegação</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="toast_added_favorite">Este canal foi adicionado aos seus favoritos.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_title_favorite">Adicionar aos favoritos?</string>
+    <string name="activity_name_all_channels">Todos os canais</string>
+    <string name="menu_select">Selecionar</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_remove">Remover</string>
+    <string name="menu_search">Procurar</string>
+    <string name="menu_sort">Ordenar</string>
+    <string name="menu_filter">Filtrar</string>
+    <string name="menu_remove_all">Remover todos</string>
+    <string name="menu_sort_alphabetically">Alfabeticamente</string>
+    <string name="menu_sort_alphabetically_reverse">Alfabeticamente (Reverso)</string>
+    <string name="menu_sort_original">Original</string>
+    <string name="menu_sort_original_reverse">Original (Reverso)</string>
+    <string name="toast_video_player_not_installed">O player de vídeo selecionado não está instalado.</string>
+    <string name="activity_name_favorite">Canais favoritos</string>
+    <string name="dialog_title_remove_favorite">Remover dos favoritos?</string>
+    <string name="toast_favorite_removed">Este canal foi removido dos seus favoritos.</string>
+    <string name="activity_name_playlist">Playlist</string>
+    <string name="toast_playlist_selected">Esta playlist foi selecionada.</string>
+    <string name="dialog_title_edit_playlist">Editar playlist</string>
+    <string name="toast_url_cannot_be_empty">A URL não pode estar vazia.</string>
+    <string name="dialog_add_playlist">Adicionar playlist</string>
+    <string name="activity_name_recent">Canais recentes</string>
+    <string name="dialog_remove_recent">Remover dos recentes?</string>
+    <string name="toast_recent_removed">Este canal foi removido dos recentes.</string>
+    <string name="activity_name_settings">Configurações</string>
+    <string name="activity_settings_video_player">Player de vídeo</string>
+    <string name="activity_settings_video_player_default">Padrão</string>
+    <string name="activity_settings_theme">Tema</string>
+    <string name="activity_settings_light_theme">Claro</string>
+    <string name="activity_settings_theme_red">Vermelho</string>
+    <string name="activity_settings_theme_green">Verde</string>
+    <string name="activity_settings_theme_blue">Azul</string>
+    <string name="activity_settings_theme_pink">Rosa</string>
+    <string name="activity_settings_dark_theme">Escuro</string>
+    <string name="fun_for_everyone">Diversão para todos!</string>
+</resources>

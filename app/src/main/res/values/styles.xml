@@ -1,0 +1,75 @@
+<resources>
+
+    <style name="AppTheme.Light" parent="Theme.AppCompat.Light">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="cardBackgroundColor">#FFFFFF</item>
+    </style>
+
+    <style name="AppTheme.Light.Red" parent="AppTheme.Light">
+        <item name="colorPrimary">#F44336</item>
+        <item name="colorPrimaryDark">#E53935</item>
+        <item name="colorAccent">#F44336</item>
+        <item name="navigationHeaderColor">#F44336</item>
+    </style>
+
+    <style name="AppTheme.Light.Green" parent="AppTheme.Light">
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#43A047</item>
+        <item name="colorAccent">#4CAF50</item>
+        <item name="navigationHeaderColor">#4CAF50</item>
+    </style>
+
+    <style name="AppTheme.Light.Blue" parent="AppTheme.Light">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryDark">#1E88E5</item>
+        <item name="colorAccent">#2196F3</item>
+        <item name="navigationHeaderColor">#2196F3</item>
+    </style>
+
+    <style name="AppTheme.Light.Pink" parent="AppTheme.Light">
+        <item name="colorPrimary">#E91E63</item>
+        <item name="colorPrimaryDark">#D81B60</item>
+        <item name="colorAccent">#E91E63</item>
+        <item name="navigationHeaderColor">#E91E63</item>
+    </style>
+
+    <style name="AppTheme.Dark" parent="Theme.AppCompat">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="cardBackgroundColor">#353535</item>
+    </style>
+
+    <style name="AppTheme.Dark.Red" parent="AppTheme.Dark">
+        <item name="colorPrimary">#F44336</item>
+        <item name="colorPrimaryDark">#E53935</item>
+        <item name="colorAccent">#F44336</item>
+        <item name="navigationHeaderColor">#F44336</item>
+    </style>
+
+    <style name="AppTheme.Dark.Green" parent="AppTheme.Dark">
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#43A047</item>
+        <item name="colorAccent">#4CAF50</item>
+        <item name="navigationHeaderColor">#4CAF50</item>
+    </style>
+
+    <style name="AppTheme.Dark.Blue" parent="AppTheme.Dark">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryDark">#1E88E5</item>
+        <item name="colorAccent">#2196F3</item>
+        <item name="navigationHeaderColor">#2196F3</item>
+    </style>
+
+    <style name="AppTheme.Dark.Pink" parent="AppTheme.Dark">
+        <item name="colorPrimary">#E91E63</item>
+        <item name="colorPrimaryDark">#D81B60</item>
+        <item name="colorAccent">#E91E63</item>
+        <item name="navigationHeaderColor">#E91E63</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
